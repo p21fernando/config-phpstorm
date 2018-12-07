@@ -50,8 +50,12 @@
           <option name="url" value="https://github.com/p21sistemas/Vikings_evalton1986.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/p21sistemas/sdt21se.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\P21\sistemas\web\apache\local.desafio21" />
+    <option name="cloneParentDir" value="C:\P21\sistemas\web\apache\local.sdt21se" />
   </component>
 </application>
