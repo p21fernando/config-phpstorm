@@ -63,6 +63,7 @@
     <option name="cloneParentDir" value="C:\P21\sistemas\web\apache\local.protesto21go" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
