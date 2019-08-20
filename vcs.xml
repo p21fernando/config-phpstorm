@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/fernandodemoraes/teste-automatizado.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="p21fernando" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\P21\sistemas\web\apache\local.protesto21go" />
