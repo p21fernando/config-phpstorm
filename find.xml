@@ -15,7 +15,6 @@
     <mask>*.</mask>
     <mask>*registro*</mask>
     <mask>.sql</mask>
-    <mask>*.css</mask>
     <mask>*Repository.php</mask>
     <mask>*Repo.php</mask>
     <mask>*.sql</mask>
@@ -25,5 +24,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
