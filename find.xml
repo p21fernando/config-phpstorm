@@ -25,5 +25,6 @@
     <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.css</mask>
+    <mask>*Relatorio*</mask>
   </component>
 </application>
