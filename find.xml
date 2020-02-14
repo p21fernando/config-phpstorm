@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>.sql</mask>
     <mask>*Repository.php</mask>
     <mask>*Repo.php</mask>
-    <mask>*.sql</mask>
     <mask>*Controller.php</mask>
     <mask>*sql</mask>
     <mask>.js</mask>
@@ -27,5 +27,6 @@
     <mask>*form*</mask>
     <mask>*.phtml</mask>
     <mask>*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
