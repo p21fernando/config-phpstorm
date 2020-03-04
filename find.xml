@@ -29,9 +29,9 @@
     <mask>*.sql</mask>
     <mask>*Controller*</mask>
     <mask>*.phtml</mask>
-    <mask>*.js</mask>
     <mask>*negocio*</mask>
     <mask>*Repo*</mask>
     <mask>*Re*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
